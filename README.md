@@ -11,6 +11,6 @@ The assets in this project are compiled using Compass along with [LiveReload](ht
 
 __Author__
 
-| ![twitter/@BabaJotwani](https://twitter.com/BabaJotwani?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Follow @BabaJotwani on Twitter") |
+| ![twitter/@BabaJotwani](https://pbs.twimg.com/profile_images/708223752413126657/2BCGWxh9.jpg(http://twitter.com/babajotwani "Follow @BabaJotwani on Twitter") |
 |---|
 | [Karan Jotwani](http://@BabaJotwani.org) |

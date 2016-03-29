@@ -4,10 +4,6 @@
 Find the original blog [here](http://jotwanikaran.blogspot.in/).
 
 
-__Compiling Assets__
-
-The assets in this project are compiled using Compass along with [LiveReload](http://livereload.com/). 
-
 
 __Author__
 
